@@ -1,3 +1,4 @@
+$ composer require moneyphp/money
 # Money
 
 [![Latest Version](https://img.shields.io/github/release/moneyphp/money.svg?style=flat-square)](https://github.com/moneyphp/money/releases)
@@ -51,7 +52,7 @@ Via Composer
 ```bash
 $ composer require moneyphp/money
 ```
-
+salemjanbanjs@gmail.xom
 
 ## Features
 
